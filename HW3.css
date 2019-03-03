@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+#Org1{
+    border: 3px solid green;
+    width: 49%;
+}
+
+#Org2{
+    border: 3px solid green;
+    width: 49%;
+}
+
+#first{
+    margin-left: 25px;
+}
+
+.li{
+    margin-left: 25px;
+}
+
