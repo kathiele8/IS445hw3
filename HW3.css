@@ -5,23 +5,11 @@ h1{
 h2{
     text-align: center;
 }
-
-
-#Org1{
+   
+div>ul{
+    margin: auto;
+    width: 40%;
     border: 3px solid green;
-    width: 49%;
+    padding: 10px;
+    list-style: none;
 }
-
-#Org2{
-    border: 3px solid green;
-    width: 49%;
-}
-
-#first{
-    margin-left: 25px;
-}
-
-.li{
-    margin-left: 25px;
-}
-
